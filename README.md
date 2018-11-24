@@ -68,12 +68,12 @@ $ sed -i '/^$/d' lonweb.org.txt
 Export odd lines as Turkish translation:
 
 ```bash
-$ sed 'n; d' lonweb.org.txt > lonweb.org-tr.txt
+$ sed 'n; d' lonweb.org.txt > lonweb.org.tr
 ```
 
 Export even lines as English text:
 
 ```bash
-sed '1d; n; d' lonweb.org.txt > lonweb.org-en.txt
+$ sed '1d; n; d' lonweb.org.txt > lonweb.org.en
 ```
 
