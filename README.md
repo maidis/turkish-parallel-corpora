@@ -10,5 +10,6 @@ Please let me know if the README.md files aren't sufficiently descriptive.
 * [kde4](kde4/README.md)
 * [kde5](kde5/README.md)
 * [lonweb](./lonweb/README.md)
+* [OpenSubtitles 2018](http://opus.nlpl.eu/OpenSubtitles-v2018.php) - [OPUS](http://opus.nlpl.eu)
 
 If you are wondering how to cite, please see: [How do you cite a Github repository?](https://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository/14015#14015).
