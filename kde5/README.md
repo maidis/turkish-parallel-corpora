@@ -1,4 +1,4 @@
-## kde4 and kde5
+## kde5
 
 - author: Anıl Özbek
 - last update: 24.11.2018
