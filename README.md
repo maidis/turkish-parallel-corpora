@@ -82,7 +82,7 @@ $ sed '1d; n; d' lonweb.org.txt > lonweb.org.en
 - author: Anıl Özbek
 - last update: 18.01.2019
 - status: quite clean
-- alignment: perfect
+- alignment: almost perfect (merged verses must be checked separately, currently all verses that aren't available in other languages are automatically merged with the verse above)
 - resource: [bible-corpus](https://github.com/christos-c/bible-corpus)
 - license: same with bibleTurkish.xml and bibleEnglish.xml files from bible-corpus
 
